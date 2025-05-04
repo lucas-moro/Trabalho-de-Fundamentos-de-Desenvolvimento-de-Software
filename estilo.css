@@ -1,0 +1,16 @@
+body {background-color:rgb(118, 171, 231);}
+
+.titulo {color: rgb(63, 30, 151); text-align: center ;}
+
+p {font-size: 40px;}
+
+
+ul li {margin-bottom: 10px ;}
+
+.imagemesporte {width: 700px; border-radius: 20px ;}
+
+table,th,td{ border: 1px solid;}
+table{border-collapse: collapse;}
+.bandeira{width: 300px;}
+
+a:hover{color: rgb(180, 182, 46);}
